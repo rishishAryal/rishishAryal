@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: antiquewhite;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    position: relative;
+        left: 35%;
+    /* display: flex; */
+    /* align-items: center; */
+    /* position: absolute; */
+    /* right: 40%; */
+}
+
+.logo img {
+    width: 70px;
+padding: 15px 0;
+    /* padding: 20px 20px; */
+    cursor: pointer;
+}
+
+.button {
+   
+    display: flex;
+    
+  /* align-items: center; */
+    /* height: 30px; */
+    
+}
+.btn{
+    padding: 8px 10px;
+margin: 0 10px;
+border: 1.5px solid red;
+background-color: white;
+/* position: absolute; */
+
+
+}
+.order{
+    /* height:4vh; */
+    width: 100px;
+    position: absolute;
+    /* left: 56%; */
+    right: 41%;
+}
+.cart{
+    width: 70px;
+    position: absolute;
+    left: 60%;
+}
+.slider img{
+    width: 55%;
+}
+.container{
+display: flex;
+    /* align-content: center; */
+    /* justify-content: center;
+     */
+     
+}
+.click{
+    
+   /* margin-top: 50px; */
+  /* margin: auto; */
+  margin: 50px auto 50px auto;
+    width: 80em;
+    border-radius: 10px;
+    height: 200px;
+    background-color: red;
+}
+.click img{
+   width: 50px;
+   
+
+}
+.click h1{
+flex-wrap: wrap;
+   text-align: center;
+    /* margin: 0 288px; */
+   /* padding: 43px 0 0 0; */
+    color: white;
+    overflow: hidden;
+    
+}
+
+.order-btn{
+    position: relative;
+    top: 40%;
+    left: 50%;
+}
+
+.conatiner-mail{
+    display: flex;
+align-content: center;
+    background-color: aqua;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    width: 100%;
+    padding: 100px 100px;
+}
+.places{
+    height: 50vh;
+
+}
+
+
+
+
+footer{
+    background-color: grey;
+    height: 90px;
+    padding: 10px 10px;
+}
+footer p{
+    text-align: center;
+}
