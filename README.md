@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **risharyal5@gmail.com**
 
-- ⚡ Fun fact **T think i have great humor.**
+- ⚡ Fun fact  think i have great humor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
